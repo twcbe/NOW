@@ -5033,6 +5033,27 @@ html {
     text-align: center;
 }
 
+.list {
+    margin-bottom: 0.5em;
+    max-width: 1000px;
+    text-align: left;
+    margin-left: 2em;
+}
+
+.feature .listItem {
+    margin-bottom: 0.5em;
+    max-width: none;
+    text-align: left;
+}
+
+.feature .paralist {
+    margin-bottom: 0.5em;
+    max-width: none;
+    text-align: left;
+    padding: 2em;
+    padding-right: 4em;
+}
+
 .speakerList {
     background-image: url(../img/dark-bg.jpg);
     padding: 1.8rem;
