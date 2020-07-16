@@ -5033,25 +5033,35 @@ html {
     text-align: center;
 }
 
-.list {
+list {
     margin-bottom: 0.5em;
     max-width: 1000px;
-    text-align: left;
-    margin-left: 2em;
+    text-align: center;
+    margin: auto;
 }
 
 .feature .listItem {
     margin-bottom: 0.5em;
     max-width: none;
-    text-align: left;
+    height: 50px;
+    text-align: center;
+    background-color: #ffffff26;
+    border-radius: 25px;
+    font-size: 27px;
+    box-sizing: border-box;
+    padding-top: 1%;
 }
 
 .feature .paralist {
     margin-bottom: 0.5em;
     max-width: none;
-    text-align: left;
+    text-align: center;
     padding: 2em;
     padding-right: 4em;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 100 !important;
+    font-family: "Open Sans", sans-serif;
 }
 
 .speakerList {
