@@ -1102,6 +1102,9 @@ blockquote p {
 
     [class*="column"] + [class*="column"]:last-child {
         float: right;
+        height: 200px;
+        display: flex;
+        align-items: center;
     }
 
     [class*="column"] + [class*="column"].end {
