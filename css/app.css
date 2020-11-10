@@ -5518,10 +5518,9 @@ list {
 
 .speakers-new .listItem {
     width: 27%;
-    height: 600px;
-    background-color: #ffff;
-    color: black;
+    height: 300px;
     margin: 50px 0px;
+    border: 0.5px solid #393939;
 }
 
 .speaker-image {
@@ -5532,7 +5531,7 @@ list {
 .about-speaker p{
     width: 90%;
     margin: 5%;
-    color: grey;
+    color: #a2a2a2;
 }
 /* #agenda h1, #agenda h2, #agenda h3, #agenda #archive .grid a .day, #archive .grid a #agenda .day, #agenda h4, #agenda h5, #agenda h6, #agenda #archive .grid a .month, #archive .grid a #agenda .month, #agenda .subheader, #agenda p, #agenda blockquote, #agenda small, #agenda #archive .grid a .year, #archive .grid a #agenda .year {
     color: white;
